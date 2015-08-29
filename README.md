@@ -1,2 +1,2 @@
 # projects
-General project
+This is a very first git project.
